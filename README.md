@@ -3,5 +3,5 @@ Welcome to the Hands-On Machine Learning repository! This repository contains co
 
 ## Repository Contents:
 
-**Chapter-wise Code:** Organized scripts and Jupyter notebooks for each chapter, demonstrating key concepts and algorithms.
+**Chapter-wise Code:** Organized scripts and Jupyter notebooks for each chapter, demonstrating key concepts and algorithms.\
 **Exercises and Solutions:** Practical exercises and their solutions to reinforce your understanding.
